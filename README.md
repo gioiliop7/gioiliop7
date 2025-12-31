@@ -37,11 +37,11 @@
 </p>
 
 ![gioiliop7's Language stats](https://git-hub-stats-card-generator.vercel.app/api/svg?username=gioiliop7&type=languages&theme=dracula&chart=bars)
-
+![gioiliop7's Contribution stats](https://git-hub-stats-card-generator.vercel.app/api/svg?username=gioiliop7&type=contributions&theme=dark)
 ---
 <img src="https://stats.hyo.dev/api/github-stats-advanced?login=gioiliop7" width="600" />
   <img src="https://streak-stats.demolab.com?user=gioiliop7&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gioiliop7&theme=tokyo-night" />
+  
 
 ###  Code Philosophy
 ```ts
